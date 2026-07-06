@@ -1,7 +1,7 @@
 # ByteCopy
 
 <p align="center">
-  <img src="assets/logo.png" alt="ByteCopy Logo" width="150">
+  <img src="assets/app_icon.png" alt="ByteCopy Logo" width="150">
 </p>
 
 <h3 align="center">
