@@ -1,6 +1,9 @@
 # ByteCopy
 
 <p align="center">
+  <img src="assets/banner.png" alt="ByteCopy Logo" width="150">
+</p>
+<p align="center">
   <img src="assets/app_icon.png" alt="ByteCopy Logo" width="150">
 </p>
 
