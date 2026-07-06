@@ -16,7 +16,7 @@ Convierte tu negocio de copiado de archivos en un proceso automático, organizad
 
 ## 🚀 ¿Qué es ByteCopy?
 
-**ByteCopy** es una aplicación de escritorio desarrollada con **Python, Flask y PyWebView**, diseñada especialmente para negocios dedicados al copiado de archivos a memorias USB.
+**ByteCopy** es una aplicación de escritorio, diseñada especialmente para negocios dedicados al copiado de archivos a memorias USB.
 
 La aplicación detecta automáticamente las memorias conectadas, registra cada archivo copiado, calcula el importe según el método de cobro configurado y genera una factura lista para entregar al cliente.
 
@@ -176,39 +176,6 @@ No requiere:
 - Servicios externos
 
 Los datos permanecen disponibles incluso después de reiniciar la aplicación.
-
----
-
-# 🖥 Tecnologías
-
-- Python
-- Flask
-- PyWebView
-- Watchdog
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-# 📦 Instalación
-
-```bash
-git clone https://github.com/tuusuario/ByteCopy.git
-
-cd ByteCopy
-
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Ejecutar
-
-```bash
-python app.py
-```
-
 ---
 
 # 💼 Ideal para
@@ -240,12 +207,6 @@ python app.py
 
 ---
 
-# 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-
----
-
 <p align="center">
-Desarrollado con ❤️ en Python.
+Desarrollado con ❤️ ByteBloom.
 </p>
